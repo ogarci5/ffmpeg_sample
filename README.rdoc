@@ -1,28 +1,8 @@
-== README
+== FFMPEG SAMPLE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app tests the buildpacks
 
-Things you may want to cover:
+https://github.com/ogarci5/heroku-buildpack-ffmpeg
+https://github.com/heroku/heroku-buildpack-ruby.git
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+So that audio conversion can be made within the Rails application.
